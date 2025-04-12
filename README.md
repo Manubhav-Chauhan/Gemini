@@ -1,1 +1,1 @@
-# Gemini
+# google-gemin-with-reactjs
